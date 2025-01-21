@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.kinematicsoup.scenefusion2": {
+      "tarball": {
+        "hash": "71c3d2002263",
+        "mtime": 1737434887735,
+        "size": 819368,
+        "localPath": "C:\\Users\\Packm\\Downloads\\com.kinematicsoup.scenefusion2-2.0.3.tgz"
+      }
+    }
+  }
+}
