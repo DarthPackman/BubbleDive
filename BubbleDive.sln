@@ -5,7 +5,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityUIExtensions", "UnityU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{fb38e7c1-59c9-66fb-0ae7-e79ba77cb096}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SidekickCharacters.Editor", "SidekickCharacters.Editor.csproj", "{f1ada33a-551c-a93d-9703-6f55d5057cbe}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityUIExtensions.editor", "UnityUIExtensions.editor.csproj", "{07dff429-3c3f-a3b8-9083-57851c10c310}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SidekickCharacters", "SidekickCharacters.csproj", "{9a3722d1-af5c-bbdf-024e-c877ca74c4c3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlCipher4Unity3D", "SqlCipher4Unity3D.csproj", "{ed7a4dd0-b9e4-cb88-a5ab-fa930879f9bc}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,8 +22,14 @@ Global
 		{3a872893-0baf-339c-f44d-dc3b412dca69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{fb38e7c1-59c9-66fb-0ae7-e79ba77cb096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{fb38e7c1-59c9-66fb-0ae7-e79ba77cb096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f1ada33a-551c-a93d-9703-6f55d5057cbe}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f1ada33a-551c-a93d-9703-6f55d5057cbe}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07dff429-3c3f-a3b8-9083-57851c10c310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{07dff429-3c3f-a3b8-9083-57851c10c310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9a3722d1-af5c-bbdf-024e-c877ca74c4c3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9a3722d1-af5c-bbdf-024e-c877ca74c4c3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ed7a4dd0-b9e4-cb88-a5ab-fa930879f9bc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ed7a4dd0-b9e4-cb88-a5ab-fa930879f9bc}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
