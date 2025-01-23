@@ -1,0 +1,13 @@
+2025-01-22 23:11:00.2902 [ERROR] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.GameObject.GetComponents[T] () (at <c3dca0e61d5249b79ac00f7b2c7a01ef>:0)
+KS.SceneFusion.sfUnityUtils.AddFlags (UnityEngine.GameObject gameObject, UnityEngine.HideFlags flags, System.Collections.Generic.HashSet`1[T] alreadyHasFlagSet) (at <92dbe1d43bfc4853b019c75be0ed2106>:0)
+KS.SceneFusion2.Unity.Editor.sfGameObjectTranslator.RelockObjects () (at ./Library/PackageCache/com.kinematicsoup.scenefusion2@71c3d2002263/Source/Editor/Translators/sfGameObjectTranslator.cs:2751)
+KS.SceneFusion2.Unity.Editor.sfSceneSaveWatcher.InvokePostSave (System.Single deltaTime) (at ./Library/PackageCache/com.kinematicsoup.scenefusion2@71c3d2002263/Source/Editor/sfSceneSaveWatcher.cs:98)
+KS.SceneFusion2.Unity.Editor.SceneFusion.Update () (at ./Library/PackageCache/com.kinematicsoup.scenefusion2@71c3d2002263/Source/Editor/SceneFusion.cs:472)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <ec7cd3b6aff74b42b2f6e2ca91cf8da2>:0)
+
+2025-01-22 23:57:16.2883 [WARNING] Background is missing its prefab asset. SyncAll will not sync properties for game objects with missing prefab assets.
+2025-01-22 23:57:16.2913 [WARNING] SM_Env_Skydome_01 is missing its prefab asset. SyncAll will not sync properties for game objects with missing prefab assets.
+2025-01-22 23:57:16.2919 [WARNING] SM_Env_Cloud_Ring_01 is missing its prefab asset. SyncAll will not sync properties for game objects with missing prefab assets.
+2025-01-22 23:57:16.2919 [WARNING] SM_Env_Cloud_Ring_01 is missing its prefab asset. SyncAll will not sync properties for game objects with missing prefab assets.

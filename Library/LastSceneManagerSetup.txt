@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Synty/SidekickCharacters/_Demos/_Scenes/Sidekick_Character_Demo.unity
+- path: Assets/Scenes/Ship Crash.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
