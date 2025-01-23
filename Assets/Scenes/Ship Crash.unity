@@ -15,19 +15,11 @@ RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 9
   m_Fog: 0
-<<<<<<< Updated upstream
   m_FogColor: {r: 0, g: 0.43988168, b: 0.5471698, a: 1}
   m_FogMode: 1
   m_FogDensity: 0.01
   m_LinearFogStart: 10
   m_LinearFogEnd: 50
-=======
-  m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-  m_FogMode: 3
-  m_FogDensity: 0.01
-  m_LinearFogStart: 0
-  m_LinearFogEnd: 300
->>>>>>> Stashed changes
   m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
@@ -45,11 +37,7 @@ RenderSettings:
   m_ReflectionBounces: 1
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
-<<<<<<< Updated upstream
   m_Sun: {fileID: 983852050}
-=======
-  m_Sun: {fileID: 0}
->>>>>>> Stashed changes
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -134,7 +122,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
-<<<<<<< Updated upstream
 --- !u!1 &7867377 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8848727623071782306, guid: 77f77adb7c1f1074c85edb84abf3ffac, type: 3}
@@ -9206,9 +9193,3 @@ SceneRoots:
   - {fileID: 1287580947}
   - {fileID: 1273883530}
   - {fileID: 699633705}
-=======
---- !u!1660057539 &9223372036854775807
-SceneRoots:
-  m_ObjectHideFlags: 0
-  m_Roots: []
->>>>>>> Stashed changes

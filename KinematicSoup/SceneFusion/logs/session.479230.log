@@ -1,24 +1,3 @@
-<<<<<<< Updated upstream
 2025-01-23 03:10:02.4808 [WARNING] Unable to load UnityEngine.InputSystem.InputActionReference at 'Assets/InputActions/PlayerController.inputactions'[3].
 2025-01-23 03:10:20.9598 [WARNING] Unable to create stand-in library asset for UnityEngine.InputSystem.InputActionReference at 'Assets/InputActions/PlayerController.inputactions'[3]. Offline missing asset replacement will not work for this asset.
 2025-01-23 03:10:24.1781 [WARNING] Unable to create stand-in library asset for UnityEngine.InputSystem.InputActionReference at 'Assets/InputActions/PlayerController.inputactions'[3]. Offline missing asset replacement will not work for this asset.
-=======
-2025-01-23 03:08:24.4526 [WARNING] Your asset UnityEngine.Material at 'Assets/Synty/PolygonNatureBiomes/PNB_Tropical_Jungle/Materials/Skybox_Tropical_Mat_01.mat' conflicts with the server version and will not sync.
-2025-01-23 03:08:25.2814 [WARNING] Error adding component '#UnderwaterFX': Could not find type 'UnderwaterFX'.
-2025-01-23 03:08:25.2824 [WARNING] Unable to load component 'UnderwaterFX'.
-2025-01-23 03:08:25.3120 [WARNING] Unable to load prefab 'Assets/Scenes/Gavins Stuff/Water.prefab'.
-2025-01-23 03:08:25.3183 [WARNING] Unable to load UnityEngine.Rendering.VolumeProfile at 'Assets/Scenes/Ship Crash/Surface Profile.asset'.
-2025-01-23 03:08:25.3243 [WARNING] Unable to load UnityEngine.Rendering.VolumeProfile at 'Assets/Scenes/Ship Crash/Underwater Profile.asset'.
-2025-01-23 03:08:25.3243 [WARNING] Unable to load prefab 'Assets/Scenes/Gavins Stuff/Background.prefab'.
-2025-01-23 03:08:25.3258 [WARNING] Unable to load prefab 'Assets/Scenes/Gavins Stuff/Base_Ground.prefab'.
-2025-01-23 03:08:25.3414 [WARNING] Error adding component '#Rotation': Could not find type 'Rotation'.
-2025-01-23 03:08:25.3414 [WARNING] Unable to load component 'Rotation'.
-2025-01-23 03:08:25.5207 [WARNING] Unable to load prefab 'Assets/Scenes/Gavins Stuff/SM_Veh_DropShip_01.prefab'.
-2025-01-23 03:08:25.5272 [WARNING] Error adding component '#ShipRepair': Could not find type 'ShipRepair'.
-2025-01-23 03:08:25.5272 [WARNING] Unable to load component 'ShipRepair'.
-2025-01-23 03:10:04.0527 [ERROR] NullReferenceException: Object reference not set to an instance of an object
-Unity.PlasticSCM.Editor.ViewSwitcher.OnDisable () (at ./Library/PackageCache/com.unity.collab-proxy@2.6.0/Editor/ViewSwitcher.cs:205)
-Unity.PlasticSCM.Editor.PlasticWindow.ClosePlastic (Unity.PlasticSCM.Editor.PlasticWindow window) (at ./Library/PackageCache/com.unity.collab-proxy@2.6.0/Editor/PlasticWindow.cs:1096)
-Unity.PlasticSCM.Editor.PlasticWindow.OnDisable () (at ./Library/PackageCache/com.unity.collab-proxy@2.6.0/Editor/PlasticWindow.cs:283)
-
->>>>>>> Stashed changes
