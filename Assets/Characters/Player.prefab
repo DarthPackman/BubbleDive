@@ -504,7 +504,7 @@ Transform:
   m_GameObject: {fileID: 1298356821362161678}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -1.172, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1156,7 +1156,8 @@ MonoBehaviour:
   rb: {fileID: 184526915133775518}
   moveSpeed: 3
   boostSpeed: 1.3
-  moveDirection: {x: 0, y: 0}
+  rotationSpeed: 0
+  resetRotationSpeed: 0
   move: {fileID: 640180610536312059, guid: c96c548f8bc96b84f8df86972385fab8, type: 3}
   boost: {fileID: -2576661512381396594, guid: c96c548f8bc96b84f8df86972385fab8, type: 3}
 --- !u!54 &184526915133775518
@@ -3161,7 +3162,7 @@ Transform:
   m_GameObject: {fileID: 8571901303554147597}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -1.172, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
